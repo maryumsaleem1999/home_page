@@ -1,0 +1,112 @@
+.row{
+	justify-content: space-around;
+	margin-left: 10px;
+	
+}
+.mine{
+	font-size: 13px
+}
+.fine{
+	margin-left: 60px;
+}
+.dropdown-item:hover{
+	color: blue;
+}
+.happy{
+	display: flex;
+}
+.one{
+	text-align: justify;
+font-family: sans-serif;
+line-height: 0.7cm;
+}
+.two{
+	text-align:justify;
+	font-family: sans-serif;
+line-height: 0.7cm;
+}
+.three{
+	text-align:justify;
+	font-family: sans-serif;
+line-height: 0.7cm;
+}
+.four{
+	text-align:justify;
+	font-family: sans-serif;
+line-height: 0.7cm;
+
+}
+.fun{
+	display: flex;
+	text-align: center;
+}
+.hello{
+	padding-top: 50px;
+	padding-bottom: 120px;
+
+}
+.enjoy{
+	display: flex;
+	text-align: center;
+}
+.sick{
+display: inline-flex;
+font-size: 50px;
+text-shadow:1px 1px 0px blue;
+}
+#col{
+	color: royalblue;
+	font-size: 20px;
+	text-shadow: 1px 1px 0px blue;
+	padding: 70px;	
+	width: 100px;
+	height: 250px;
+	border: 0.1px solid gray;
+	box-shadow: 1px 1px 0px solid black;
+
+}
+h3{
+	text-shadow: 1px 1px 0px  blue;
+
+}
+.media
+{
+	padding: 10px;
+	box-shadow: 1px 1px 0px solid black;
+}
+.col-md-5{
+	text-shadow: 1px 1px 0px blue;
+	font-size: 20px;
+} 
+h3{
+	text-align: left;
+	font-size: 35px;
+}
+
+span{
+	font-size: 20px;
+}
+.media-body>h4{
+	font-size: 17px;
+	width: 60%;
+	height: 0.1px;
+	margin-right: 100px;
+}
+.col-lg-4>h4{
+	font-size: 20px;
+}
+
+#container>img{
+	justify-content: space-around;
+}
+.col-md-4>h4{
+	font-size: 20px;
+	padding-bottom: 25px;
+	padding-top: 20px;
+}
+#row{
+	padding-bottom: 20px;
+}
+.col>p{
+	flex: right;
+}
